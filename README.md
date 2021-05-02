@@ -17,7 +17,7 @@ CPU|i7-10875H
 
 环境|版本
 --|--
-OpenCore|0.6.7
+OpenCore|0.6.6
 MacOS Big Sur|11.1
 
 已驱动：
@@ -31,10 +31,11 @@ MacOS Big Sur|11.1
 * CPU、温度传感器正常
 * CPU变频正常
 * USB 3.0正常
+* 声音调节快捷键正常
 
 未驱动：
 
-* HDMI外接,由于无法驱动独显，而这款HDMI又是独显直通，所以HDMI外接无解
+* HDMI外接，由于无法驱动独显，而这款HDMI又是独显直通，所以HDMI外接无解
 
 HDMI外接方案：
 
