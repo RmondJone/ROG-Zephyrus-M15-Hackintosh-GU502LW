@@ -17,8 +17,8 @@ CPU|i7-10875H
 
 环境|版本
 --|--
-OpenCore|0.6.6
-MacOS Big Sur|11.1
+OpenCore|0.9.6
+MacOS Venture|13.6.1
 
 已驱动：
 
