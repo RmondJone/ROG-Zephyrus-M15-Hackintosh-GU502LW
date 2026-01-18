@@ -17,29 +17,28 @@ CPU|i7-10875H
 
 环境|版本
 --|--
-OpenCore|0.9.6
-MacOS Venture|13.6.1
+OpenCore|1.0.5
+MacOS Tahoe|26.1
 
-已驱动：
+✨已驱动：
 
 * 核显完美(显存已改为2G)
 * 声卡完美
-* 网卡：有线+无线完美
+* 网卡：有线+无线完美 (OCLP)
+* 蓝牙完美
+* 隔空投送功能正常
 * 睡眠正常
 * 电池管理完美
 * 触摸板完美
 * CPU、温度传感器正常
 * CPU变频正常
-* USB 3.0正常
 * 声音调节快捷键正常
 
-未驱动：
-
-* HDMI外接，由于无法驱动独显，而这款HDMI又是独显直通，所以HDMI外接无解
-
-HDMI外接方案：
-
-* 采用USB3.0转HDMI，需要下载驱动，驱动下载地址详见远景帖子：[http://bbs.pcbeta.com/viewthread-1887719-1-1.html](http://bbs.pcbeta.com/viewthread-1887719-1-1.html)
+![](./IMG/1.png)
+![](./IMG/2.png)
+![](./IMG/3.png)
+![](./IMG/4.png)
+![](./IMG/5.png)
 
 ### GitHub
 EFI地址：[https://github.com/RmondJone/ROG-Zephyrus-M15-Hackintosh-GU502LW](https://github.com/RmondJone/ROG-Zephyrus-M15-Hackintosh-GU502LW)
